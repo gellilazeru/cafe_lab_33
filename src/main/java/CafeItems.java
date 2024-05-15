@@ -6,4 +6,5 @@ public abstract class CafeItems {
         this.sellingPrice = sellingPrice;
     }
 
+
 }
