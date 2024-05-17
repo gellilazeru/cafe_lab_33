@@ -6,5 +6,13 @@ public abstract class CafeItems {
         this.sellingPrice = sellingPrice;
     }
 
+    public double getSellingPrice(){
+        return this.sellingPrice;
+    }
+
+    public void setSellingPrice(double sellingPrice){
+        this.sellingPrice = sellingPrice;
+    }
+
 
 }
